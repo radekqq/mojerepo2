@@ -1,2 +1,7 @@
 test1
-jakas zmiana po rozgalezieniu na experyment2, ale teraz jestem na master
+zostawiam <<<<<<< HEAD
+zostawiam jakas zmiana po rozgalezieniu na experyment2, ale teraz jestem na zostawiam master
+zostawiam =======
+zostawiam Switched to a new branch 'experiment-2'
+zostawiam >>>>>>> commit expertiment2a
+rozwiazalem konflikt zostawiaj¹ wszystko
